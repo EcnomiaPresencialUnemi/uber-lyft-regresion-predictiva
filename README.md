@@ -56,7 +56,6 @@ Se construyó un modelo de regresión lineal múltiple con las siguientes caract
 
 Estos resultados indican que el modelo tiene un desempeño razonable al predecir el precio de viajes con datos históricos similares.
 
-DICCIONARIO DE VARIABLES
 
 ## 📑 Diccionario de Variables
 
